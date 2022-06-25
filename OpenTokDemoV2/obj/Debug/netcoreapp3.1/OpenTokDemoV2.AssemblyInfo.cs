@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenTokDemoV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe9848b6686c3d55200a72cdbebf8287b6fd71f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenTokDemoV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenTokDemoV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Local Repo\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2.csproj": {}
+    "D:\\Online Repo\\OpenTok.-NetCore-VideoCalling\\OpenTokDemoV2\\OpenTokDemoV2.csproj": {}
   },
   "projects": {
-    "D:\\Local Repo\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2.csproj": {
+    "D:\\Online Repo\\OpenTok.-NetCore-VideoCalling\\OpenTokDemoV2\\OpenTokDemoV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Local Repo\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2.csproj",
+        "projectUniqueName": "D:\\Online Repo\\OpenTok.-NetCore-VideoCalling\\OpenTokDemoV2\\OpenTokDemoV2.csproj",
         "projectName": "OpenTokDemoV2",
-        "projectPath": "D:\\Local Repo\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2.csproj",
+        "projectPath": "D:\\Online Repo\\OpenTok.-NetCore-VideoCalling\\OpenTokDemoV2\\OpenTokDemoV2.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Local Repo\\OpenTokDemoV2\\OpenTokDemoV2\\OpenTokDemoV2\\obj\\",
+        "outputPath": "D:\\Online Repo\\OpenTok.-NetCore-VideoCalling\\OpenTokDemoV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
